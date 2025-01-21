@@ -53,7 +53,7 @@ public class Logica {
 		 * false	false	false
 		 * 
 		 * 
-		 * * p		q		p || q
+		 * p		q		p || q
 		 * true		true	true
 		 * true		false	true
 		 * false	true	true
