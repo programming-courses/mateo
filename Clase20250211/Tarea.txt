@@ -1,0 +1,20 @@
+Tarea:
+* Realizar un resumen de la programacion en Java (en un word)
+
+-Todas las estructuras de programacion, con ejemplo.
+	- asignacion
+	- operadores matematicos: + - * / %
+	- operadores logicos: && || !
+	- if
+	- if..else
+	- while
+	- do..while
+	- for
+
+-Arrays
+
+-Subrutinas
+
+-Funciones
+
+Enviar a: gmbarrera@gmail.com
